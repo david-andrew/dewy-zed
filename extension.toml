@@ -1,0 +1,11 @@
+id = "dewy"
+name = "Dewy Syntax Highlighting"
+version = "0.0.1"
+schema_version = 1
+authors = ["David Samson david.andrew.engineer@gmail.com"]
+description = "syntax highlighting for the Dewy Programming Language"
+repository = "https://github.com/david-andrew/dewy-zed.git"
+
+[grammars.dewy]
+repository = "file:///home/david/dev/tree-sitter-dewy" # "https://github.com/david-andrew/tree-sitter-dewy.git"
+rev = "23b2f29bf7ca4fd9db07e19b7535e1380b5294e9"       # TODO: keep this up to date with latest master branch push...

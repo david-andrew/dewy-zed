@@ -1,0 +1,4 @@
+name = "Dewy"
+grammar = "dewy"
+path_suffixes = ["dewy"]
+line_comments = ["% "]

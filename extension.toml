@@ -1,6 +1,6 @@
 id = "dewy"
 name = "Dewy Syntax Highlighting"
-version = "0.0.1"
+version = "0.0.0"
 schema_version = 1
 authors = ["David Samson david.andrew.engineer@gmail.com"]
 description = "syntax highlighting for the Dewy Programming Language"
